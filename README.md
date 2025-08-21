@@ -13,6 +13,10 @@ I focus on **real-time AI for safety-critical applications** — from accessibil
 Strong background in **deep learning model development, explainability, and deployment** using PyTorch, TensorFlow, and FastAPI.  
 
 ---
+### 📄 Resources  
+- 📑 [My Resume](#)  
+- 📘 [Master Thesis Report](#)
+---
 
 ### 🔧 Skills  
 - **Programming:** Python, C++  
