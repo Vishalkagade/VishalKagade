@@ -14,7 +14,7 @@ Strong background in **deep learning model development, explainability, and depl
 
 ---
 ### 📄 Resources  
-- 📑 [My Resume](#)  
+- 📑 [My Resume](Vishal_kagade_CV.pdf)  
 - 📘 [Master Thesis Report](#)
 ---
 
