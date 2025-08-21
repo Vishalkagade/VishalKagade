@@ -8,19 +8,19 @@
 ---
 
 ### 👨‍💻 About Me  
-AI Engineer with 3+ years of experience building **multimodal AI systems** across computer vision, deep learning, and generative NLP.  
-I focus on **real-time AI for safety-critical applications** — from accessibility tools for visually impaired users to robust automotive perception systems.  
-Strong background in **deep learning model development, explainability, and deployment** using PyTorch, TensorFlow, and FastAPI.  
+I am an AI and Computer Vision Engineer currently working at SmartAIs, where I develop real-time AI and computer vision pipelines for obstacle avoidance to assist blind people.  
 
----
-### 📄 Resources  
-- 📑 [My Resume](Vishal_kagade_CV.pdf)  
-- 📘 [Master Thesis Report](Master_thesis_report.pdf)
----
+I bring expertise in multimodal AI systems across computer vision, deep learning, and generative AI, with a strong focus on deploying these systems in real time on edge devices.  
+
+I completed my Master in International Automotive Engineering at Technische Hochschule Ingolstadt, specializing in AI and Computer Vision.  
+In my master thesis, I developed a novel multimodal RADAR-Camera Fusion model for depth estimation and object detection. You can learn more about it here → 📘 [Master Thesis Report](Master_thesis_report.pdf).  
+
+To know more about my professional journey, please see my resume → 📑 [My Resume](Vishal_kagade_CV.pdf).  
+
 
 ### 🔧 Skills  
-- **Programming:** Python, C++  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, LangChain, LangGraph, OpenCV, FastAPI, Streamlit  
+- **Programming:** Python, C++ 
+- **Frameworks & Libraries:** PyTorch, TensorFlow, ONNX, TensorRT, LangChain, LangGraph, OpenCV, FastAPI, Streamlit
 - **Technologies:** LiDAR, RADAR, Camera, Embedded AI  
 - **MLOps & Deployment:** Docker, Gradio, AWS (S3), Weights & Biases, CI/CD  
 - **Languages:** English (Fluent), German (B1)  
