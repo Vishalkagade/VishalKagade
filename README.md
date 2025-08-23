@@ -26,6 +26,8 @@ To know more about my professional journey, please see my resume → 📑 [My Re
 - **Languages:** English (Fluent), German (B1)  
 
 ---
+### 📈 GitHub Stats
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishalkagade&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me  
 <p align="left">
@@ -34,8 +36,3 @@ To know more about my professional journey, please see my resume → 📑 [My Re
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkagade&show_icons=true&locale=en" alt="vishalkagade" />
-</p>
-
